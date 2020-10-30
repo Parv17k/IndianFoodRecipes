@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Indian Food Recipies",
+  "main": "index.js",
+  "author": "Parv Khatri",
+  "license": "MIT"
+}
